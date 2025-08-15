@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"  />
+  <img height="150" src="https://github.com/user-attachments/assets/93de442f-79d6-446a-bd42-dd225c1f865b" alt="gif funky"/>
 </div>
+
 
 
 # 👋 Hey there, I'm Sathyaseelan K                                         ![Profile views](https://komarev.com/ghpvc/?username=sathyaseelan2006&color=blueviolet)
