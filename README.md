@@ -1,6 +1,8 @@
+
 <div align="center">
-  <img height="150" src="https://github.com/user-attachments/assets/93de442f-79d6-446a-bd42-dd225c1f865b" alt="gif funky"/>
+  <img src="" height="150" alt="Funky animated image"/>
 </div>
+
 
 
 
