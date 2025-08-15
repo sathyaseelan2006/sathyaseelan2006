@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="" height="150" alt="Funky animated image"/>
+  <img src="funky - animated.gif" height="250" width="800" alt="Funky animated image"/>
 </div>
 
 
