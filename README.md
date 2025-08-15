@@ -5,7 +5,7 @@
 
 # 👋 Hey there, I'm Sathyaseelan K                                         ![Profile views](https://komarev.com/ghpvc/?username=sathyaseelan2006&color=blueviolet)
 
-🎓 2nd Year B.Tech Information Technology Student  
+🎓 3rd Year B.Tech Information Technology Student  
 🏫 M. Kumarasamy College of Engineering  
 📍 Tamil Nadu, India  
 
