@@ -18,15 +18,6 @@
 
 I'm a passionate tech enthusiast exploring AI, Machine Learning, and Full Stack Development. I love building smart systems that solve real-world problems using a blend of technologies.
 
-
-
-## 📊 GitHub Stats
-
-![Sathyaseelan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathyaseelan2006&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathyaseelan2006&layout=compact&theme=tokyonight)
-
----
-
 ## 🔨 Projects
 
 - 🔍 *AI-Powered Face Recognition Attendance System*
