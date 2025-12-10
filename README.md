@@ -23,7 +23,9 @@ I'm a passionate tech enthusiast exploring AI, Machine Learning, and Full Stack 
 - 🔍 *AI-Powered Face Recognition Attendance System*
 - 🧠 *Hand Gesture Calculator*
 - 📚 *SMART LMS*
-- 🔒 *Phishing & Scam Detection System*
+- 🔒 *AI powered - Car recommendation System*
+- 🌍 *Air Pollution Monitoring System*
+- 🤖 *Personal AI assistant*
 
 
 ---
