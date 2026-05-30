@@ -237,15 +237,19 @@
 
 ---
 
-## `$ git log --stat`
+---
+
+## `❯ git log --stat`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathyaseelan2006&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sathyaseelan2006&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&border_radius=10)
+| Projects | IEEE Publication | Total Commits | Certifications |
+|:---:|:---:|:---:|:---:|
+| **8** | **1** | **183** | **6** |
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sathyaseelan2006&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&border_radius=10)
+
+> 💡 **Tip:** Deploy your own [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) instance on Vercel for the stats cards
 
 </div>
 
